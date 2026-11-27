@@ -1,0 +1,9 @@
+/freebuff-sites-build/
+/dist/
+/node_modules/
+/checks/
+/artifacts/
+site-manifest.json
+.env
+.env.local
+.env.*.local
